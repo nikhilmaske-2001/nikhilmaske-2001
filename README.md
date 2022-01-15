@@ -9,6 +9,8 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
+- 👯 Currently contributing to [Zulip web app](https://github.com/zulip/zulip) and [WBOT](https://github.com/vasani-arpit/WBOT) open source projects
+
 - 📫 How to reach me **nikhilmaske2001@gmail.com**
 
 ## 🚀 Languages and Tools:
